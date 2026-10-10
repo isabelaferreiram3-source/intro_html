@@ -26,3 +26,26 @@ nav a {
 nav a:hover {
     color: #c49be0;
 }
+main {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+section {
+    margin-bottom: 40px;
+}
+
+h2 {
+    color: #c49be0;
+}
+
+p {
+    line-height: 1.7;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+}
